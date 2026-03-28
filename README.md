@@ -175,7 +175,6 @@ Recommended Reorder Qty =
 
 <div align="center">
 
-Built by **Moyin Odumewu** · Business Intelligence  
-Premier Standard Industrial Limited · Dataset reference date: 24 June 2024
+Built by **Moyin Odumewu** · Business Intelligence  Analyst
 
 </div>
