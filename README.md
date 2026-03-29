@@ -1,4 +1,4 @@
-# PSIL Customer Demand Intelligence System
+# Customer Demand Intelligence System
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## The Business Problem
 
-Premier Standard Industrial Limited (PSIL) is a 40-year-old Nigerian distribution company and sole distributor of Alltech Coppens fish feeds in Nigeria and West Africa. Operating across five branches — Lagos, Aba, Ibadan, Port Harcourt, and Abuja — they distribute four product lines to ten active customer accounts.
+A Nigerian distribution company and sole distributor of Alltech Coppens fish feeds in Nigeria and West Africa. Operating across five branches — Lagos, Aba, Ibadan, Port Harcourt, and Abuja — they distribute four product lines to ten active customer accounts.
 
 Management had no systematic way to anticipate demand. Orders were reactive. Stockouts were untracked. Customer purchasing patterns were unknown.
 
